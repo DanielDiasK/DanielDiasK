@@ -10,6 +10,9 @@
   <a href="mailto:danieldiasof@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Email-danieldiasof@gmail.com-red?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
+  <a href="https://danieldias.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
 
 ---
@@ -50,5 +53,8 @@ Gosto de transformar ideias em projetos que unem **performance, design e usabili
 <p align="center">
   <a href="https://wa.me/5517991612480" target="_blank">
     <img src="https://img.shields.io/badge/Conversar%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  </a>
+  <a href="https://danieldias.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Acessar%20Portfólio-000000?style=for-the-badge&logo=vercel&logoColor=white" />
   </a>
 </p>
