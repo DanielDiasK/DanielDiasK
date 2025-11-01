@@ -26,12 +26,12 @@ Gosto de transformar ideias em projetos que unem **performance, design e usabili
 
 #### 💻 Front-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,html,css,typescript,javascript" />
+  <img src="https://skillicons.dev/icons?i=react,vue,angular,html,css,typescript,javascript" />
 </p>
 
 #### ⚙️ Back-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,python,sql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,sql" />
 </p>
 
 ---
