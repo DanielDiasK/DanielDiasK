@@ -34,7 +34,7 @@ Gosto de transformar ideias em projetos que unem **performance, design e usabili
 
 #### ⚙️ Back-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,sql,rust" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,rust" />
 </p>
 
 ---
