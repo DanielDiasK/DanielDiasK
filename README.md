@@ -1,7 +1,7 @@
 <!-- Daniel Dias - GitHub Profile README -->
 
 <h1 align="center">👨‍💻 Daniel Dias</h1>
-<h3 align="center">Desenvolvedor FullStack | Criando soluções eficientes e inovadoras</h3>
+<h3 align="center">Desenvolvedor Web | Criando soluções eficientes e inovadoras</h3>
 
 <p align="center">
   <a href="https://wa.me/5517991612480" target="_blank">
@@ -34,8 +34,7 @@ Gosto de transformar ideias em projetos que unem **performance, design e usabili
 
 #### ⚙️ Back-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,sql" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-plain.svg" width="48" height="48"/>
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,sql,rust" />
 </p>
 
 ---
@@ -44,12 +43,19 @@ Gosto de transformar ideias em projetos que unem **performance, design e usabili
 
 <p align="center">
   <img 
-    src="https://github-readme-stats.vercel.app/api?username=DanielDiasK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" 
-    height="165em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api?username=DanielDiasK&show_icons=true&theme=tokyonight&hide_border=true" 
+    height="165"
   />
   <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDiasK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&cache_seconds=1800" 
-    height="165em" 
+    src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=DanielDiasK&layout=compact&theme=tokyonight&hide_border=true" 
+    height="165"
+  />
+</p>
+
+<p align="center">
+  <img 
+    src="https://streak-stats.demolab.com?user=DanielDiasK&theme=tokyonight&hide_border=true" 
+    height="165"
   />
 </p>
 
