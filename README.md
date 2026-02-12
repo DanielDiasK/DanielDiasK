@@ -34,17 +34,29 @@ Gosto de transformar ideias em projetos que unem **performance, design e usabili
 
 #### ⚙️ Back-end
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,sql" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,sql,rust" />
 </p>
 
 ---
 
-### 📊 Estatísticas
+### 🔥 Principais Competências
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DanielDiasK&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160em" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanielDiasK&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" height="160em" />
-</p>
+- Desenvolvimento Fullstack moderno
+- Integração com APIs e ERPs
+- DevOps e configuração de servidores
+- Machine Learning aplicado
+- Integração com Marketplaces
+- Performance e otimização de aplicações
+- Estruturas de dados e arquitetura escalável
+
+---
+
+### 🚀 Projetos em Destaque
+
+- 🧠 Aplicações com Machine Learning
+- 📦 Integrações ERP & Marketplaces
+- 🖥️ Plataformas Web completas
+- ⚙️ Sistemas com foco em performance
 
 ---
 
