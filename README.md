@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F56D9,100:111111&height=180&section=header&text=Daniel%20Dias&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Desenvolvedor%20Web%20%7C%20Criando%20solu%C3%A7%C3%B5es%20eficientes%20e%20inovadoras&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F56D9,100:111111&height=180&section=header&text=Daniel%20Dias&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
   <a href="mailto:danieldiasof@gmail.com">
-    <img src="https://img.shields.io/badge/Email-danieldiasof@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
   <a href="https://danieldias.vercel.app/">
     <img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
@@ -22,11 +22,13 @@
 
 ## 👋 Sobre mim
 
-Sou **Daniel Dias**, desenvolvedor web com interesse em desenvolvimento de sistemas, integração de serviços e criação de aplicações para diferentes necessidades.
+Sou **Daniel Dias**, desenvolvedor **Full Stack** com interesse em construir aplicações, ferramentas e soluções que resolvam problemas reais.
 
-Tenho interesse em compreender o problema antes de desenvolver a solução, buscando manter o código organizado, a aplicação eficiente e a experiência de uso simples.
+Tenho experiência e interesse tanto no desenvolvimento de interfaces quanto na construção de APIs, integrações, sistemas e infraestrutura.
 
-Atualmente, estudo e desenvolvo projetos envolvendo **desenvolvimento web, APIs, automação, infraestrutura e integração entre sistemas**.
+Também tenho grande interesse em **Open Source**, buscando utilizar, estudar, contribuir e compartilhar projetos com a comunidade.
+
+Acredito que software bem desenvolvido deve ser **simples de entender, eficiente de executar e fácil de manter**.
 
 ---
 
@@ -44,11 +46,55 @@ Atualmente, estudo e desenvolvo projetos envolvendo **desenvolvimento web, APIs,
   <img src="https://skillicons.dev/icons?i=nodejs,express,php,python,rust" />
 </p>
 
-### 🛠️ Ferramentas
+### 🗄️ Banco de Dados
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,vercel,figma" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis" />
 </p>
+
+### 🛠️ Ferramentas & Infraestrutura
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,linux,docker,vscode,vercel,nginx" />
+</p>
+
+---
+
+## 🌎 Open Source
+
+Tenho um interesse especial por **software livre e projetos Open Source**.
+
+Busco aprender através de projetos existentes, explorar diferentes implementações e, sempre que possível, contribuir com código, melhorias e ideias para a comunidade.
+
+Também utilizo projetos Open Source como parte importante do meu processo de aprendizado e desenvolvimento.
+
+---
+
+## 💼 Áreas de Interesse
+
+- Desenvolvimento Full Stack
+- APIs e serviços backend
+- Aplicações web
+- Bancos de dados
+- Integração entre sistemas
+- Automação de processos
+- Linux e infraestrutura
+- Arquitetura de software
+- Performance e otimização
+- Inteligência Artificial aplicada
+- Open Source
+
+---
+
+## 📚 Atualmente estudando
+
+- Arquitetura de software
+- Desenvolvimento backend
+- Sistemas distribuídos
+- Banco de dados
+- Infraestrutura Linux
+- Inteligência Artificial
+- Desenvolvimento e contribuição em projetos Open Source
 
 ---
 
@@ -67,40 +113,6 @@ Atualmente, estudo e desenvolvo projetos envolvendo **desenvolvimento web, APIs,
 <div align="center">
 
 <img src="https://streak-stats.demolab.com?user=DanielDiasK&theme=tokyonight&hide_border=true" />
-
-</div>
-
----
-
-## 💼 Áreas de Interesse
-
-- Desenvolvimento de aplicações web
-- Desenvolvimento de APIs e integrações
-- Automação de processos
-- Integração entre sistemas e serviços
-- Administração e configuração de ambientes Linux
-- Estruturação e manutenção de aplicações
-- Análise e otimização de desempenho
-- Desenvolvimento de soluções para necessidades específicas
-
----
-
-## 📚 Atualmente estudando
-
-- Arquitetura e desenvolvimento de aplicações
-- Backend e integração de APIs
-- Infraestrutura e ambientes Linux
-- Banco de dados e organização de informações
-- Automação e integração de sistemas
-- Inteligência Artificial aplicada ao desenvolvimento
-
----
-
-## 📈 Atividade no GitHub
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DanielDiasK&theme=tokyo-night&hide_border=true&area=true" width="100%"/>
 
 </div>
 
