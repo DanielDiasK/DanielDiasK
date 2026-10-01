@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:7F56D9,100:111111&height=180&section=header&text=Daniel%20Dias&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1F3A,100:111111&height=180&section=header&text=Daniel%20Dias&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -136,4 +136,4 @@ Também utilizo projetos Open Source como parte importante do meu processo de ap
 
 </p>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:7F56D9&height=100&section=footer" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:0B1F3A&height=100&section=footer" width="100%"/>
