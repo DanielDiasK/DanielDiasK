@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:5B9BD5,100:2F6FA3&height=150&section=header&text=Daniel%20Dias&fontSize=48&fontColor=ffffff&fontAlignY=45&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=68&descSize=16&animation=fadeIn&radius=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:60A5FA,50:3B82F6,100:111111&height=180&section=header&text=Daniel%20Dias&fontSize=48&fontColor=ffffff&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20Open%20Source%20Enthusiast&descAlignY=60&descSize=16&animation=fadeIn" width="100%"/>
 
 </div>
 
@@ -24,7 +24,7 @@
 
 Sou **Daniel Dias**, desenvolvedor **Full Stack** com interesse em construir aplicações, ferramentas e soluções que resolvam problemas reais.
 
-Tenho experiência e interesse tanto no desenvolvimento de interfaces quanto na construção de APIs, integrações, sistemas e infraestrutura.
+Tenho interesse tanto no desenvolvimento de interfaces quanto na construção de APIs, integrações, sistemas e infraestrutura.
 
 Também tenho grande interesse em **Open Source**, buscando utilizar, estudar, contribuir e compartilhar projetos com a comunidade.
 
@@ -138,6 +138,6 @@ Também utilizo projetos Open Source como parte importante do meu processo de ap
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:2F6FA3,100:5B9BD5&height=80&section=footer&radius=20" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,50:3B82F6,100:60A5FA&height=100&section=footer" width="100%"/>
 
 </div>
