@@ -22,11 +22,11 @@
 
 ## 👋 Sobre mim
 
-Sou **Daniel Dias**, desenvolvedor web apaixonado por tecnologia e por criar soluções que geram impacto real.
+Sou **Daniel Dias**, desenvolvedor web com interesse em desenvolvimento de sistemas, integração de serviços e criação de aplicações para diferentes necessidades.
 
-Busco constantemente evoluir e aprender novas ferramentas, explorando desde o **front-end até o back-end**.
+Tenho interesse em compreender o problema antes de desenvolver a solução, buscando manter o código organizado, a aplicação eficiente e a experiência de uso simples.
 
-Gosto de transformar ideias em projetos que unem **performance, design e usabilidade**.
+Atualmente, estudo e desenvolvo projetos envolvendo **desenvolvimento web, APIs, automação, infraestrutura e integração entre sistemas**.
 
 ---
 
@@ -72,35 +72,27 @@ Gosto de transformar ideias em projetos que unem **performance, design e usabili
 
 ---
 
-## 🔥 Principais Competências
+## 💼 Áreas de Interesse
 
-- 🚀 Desenvolvimento Fullstack moderno
-- 🔌 Integração com APIs e ERPs
-- ☁️ DevOps e configuração de servidores
-- 🤖 Machine Learning aplicado
-- 📦 Integração com Marketplaces
-- ⚡ Performance e otimização de aplicações
-- 🧩 Estruturas de dados e arquitetura escalável
+- Desenvolvimento de aplicações web
+- Desenvolvimento de APIs e integrações
+- Automação de processos
+- Integração entre sistemas e serviços
+- Administração e configuração de ambientes Linux
+- Estruturação e manutenção de aplicações
+- Análise e otimização de desempenho
+- Desenvolvimento de soluções para necessidades específicas
 
 ---
 
-## 🚀 Projetos em Destaque
+## 📚 Atualmente estudando
 
-<div align="center">
-
-<a href="https://github.com/DanielDiasK">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=DanielDiasK&repo=EartPay&theme=tokyonight&hide_border=true" />
-</a>
-
-</div>
-
-<br>
-
-- 🧠 Aplicações com Machine Learning
-- 📦 Integrações ERP & Marketplaces
-- 🖥️ Plataformas Web completas
-- ⚙️ Sistemas focados em performance
-- 💳 Soluções de pagamentos e integrações financeiras
+- Arquitetura e desenvolvimento de aplicações
+- Backend e integração de APIs
+- Infraestrutura e ambientes Linux
+- Banco de dados e organização de informações
+- Automação e integração de sistemas
+- Inteligência Artificial aplicada ao desenvolvimento
 
 ---
 
@@ -114,24 +106,22 @@ Gosto de transformar ideias em projetos que unem **performance, design e usabili
 
 ---
 
-## 🚀 Vamos construir algo incrível juntos!
+## 📬 Contato
 
 <p align="center">
 
 <a href="https://wa.me/5517991612480">
-<img src="https://img.shields.io/badge/Conversar%20no%20WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+</a>
+
+<a href="mailto:danieldiasof@gmail.com">
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 <a href="https://danieldias.vercel.app/">
-<img src="https://img.shields.io/badge/Acessar%20Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
+<img src="https://img.shields.io/badge/Portf%C3%B3lio-111111?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
 </p>
-
-<div align="center">
-
-### ⭐ Obrigado pela visita!
-
-</div>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:111111,100:7F56D9&height=100&section=footer" width="100%"/>
